@@ -1,0 +1,11 @@
+.bd{
+    border: 1px solid black;
+    /* margin: 20px; */
+}
+.part1,.part2{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 20px; */
+}
